@@ -1,7 +1,7 @@
 
 # Music Store Database Analysis
 
-Read full article here.
+Read full article [here](https://kanangnut.github.io/Music-Store-Database-Analysis/).
 
 ## Credits
 Throughout the development of this project, I drew inspiration from a key video resource: https://youtu.be/VFIuIjswMKM
