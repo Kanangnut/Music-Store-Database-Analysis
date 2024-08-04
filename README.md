@@ -27,6 +27,16 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
 
+## Credits
+Throughout the development of this project, I drew inspiration from a key video resource: https://youtu.be/VFIuIjswMKM
+
+
+
+
+
+
+
+
 
 
 
