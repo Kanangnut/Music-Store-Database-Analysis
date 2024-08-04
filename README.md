@@ -18,6 +18,15 @@ In this project, I aim to explore the complexities of the music industry by anal
 
 ## Installation
 To work on this project, you need to install a SQL supported RDBMS. For this project, PostgreSQL is used follow this step:
+- Export Database to SQL and CSV file
+- Create and Restore Database
+- Create tables using the Schema Diagram provided below photo
+- Develop SQL query
+- Connect Power BI Desktop
+- Visualization
+
+![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
+
 
 
 
