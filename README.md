@@ -4,7 +4,7 @@
 Read full article [here](https://kanangnut.github.io/Music-Store-Database-Analysis/).
 
 ## Credits
-Throughout the development of this project, I drew inspiration from a key video resource: https://youtu.be/VFIuIjswMKM
+Throughout the development of this project, I drew inspiration from a key video resource: [https://youtu.be/VFIuIjswMKM](https://youtu.be/VFIuIjswMKM).
 
 ## Introduction
 I conducted a case study on a digital music store using SQL queries, delving into the database creation process and extracting insights from the data. Music reflects our diverse tastes and evolving trends, blending creativity, technology, and audience preferences. Inspired by the insights from Music Database, which showcases global music engagement, I aimed to explore patterns, genres, and artists that shape our collective musical experience.
