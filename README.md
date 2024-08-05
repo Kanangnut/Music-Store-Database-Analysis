@@ -29,7 +29,7 @@ In this project, I aim to explore the complexities of the music industry by anal
 - PostgreSQL, pgAdmin4
 - SQLite, DB Browser for SQLite
 - Power BI
-  
+
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/tools.png?raw=true)
 
 To work on this project, you need to install a SQL supported RDBMS. For this project, PostgreSQL is used follow this step:
