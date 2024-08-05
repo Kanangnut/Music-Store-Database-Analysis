@@ -22,7 +22,8 @@ In this project, I aim to explore the complexities of the music industry by anal
 1. Employee Analysis
 2. Sales and Revenue Analysis
 3. Customer Behavior Analysis
-4. Other
+4. Genre and Artist Popularity
+5. Playlists Analysis
 
 ### Tools 
 - PostgreSQL, pgAdmin4
@@ -57,24 +58,50 @@ For this project, I used PostgreSQL for SQL queries. First, I exported the datab
 ### Data Analysis
 I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
 
-### Questions Answered
+### Questions - Answered
 
+Employee Analysis:
+- Who is the senior most employee based on job title?
+- Total spending by each Sales Support Agent
 
+Sales and Revenue Analysis:
+- Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
+- Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
+- Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a query that returns one city that has the highest sum of invoice totals. Return both the city name & sum of all invoice totals
+- Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money
+- How many customers are there in each country?
+- Which countries have more than 10% of the total customers?
+- What is the average spending per customer?
+- How does the average spending per customer vary between different countries?
 
+Sales and Revenue Analysis:
+- Which country has the highest total sales?
+- What is the most popular genre in a specific country? — USA
+- How does the sales performance of rock music compare between the USA and Canada?
+- Which countries have the most invoices?
+- What is the most popular music genre in each country?
+- What is the total sales for each genre? This query calculates the total sales for each genre, rounding the result to two decimal places. The results are sorted by total sales in descending order
+- Which genres have sales greater than the average?
+- Calculate average sales for each genre
+- Calculate and display the average sales across all genres
+- Show table of total_sales and average_sales in the same table
+- What are top10 selling tracks?
+- What are the top10 popular countries for music purchases?
+- How does the monthly sales data vary?
+- Which countries have the most Invoices?
 
+Playlists Analysis:
+- Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A
+- Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands
+- Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
 
-
-
-
-
-
-
-
-
-
-
-
-
+Genre and Artist Popularity:
+- We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres
+- Retrieve the artist's name and the names of all tracks in each album
+- Which are the top 5 selling genres based on total sales?
+- Which artist has the highest total sales?
+- Which genre has the most number of tracks?
+- Who are the top3 artists in the “Rock” genre based on total sales?
 
 
 
