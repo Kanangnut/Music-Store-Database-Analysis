@@ -6,6 +6,9 @@ Read full article [here](https://kanangnut.github.io/Music-Store-Database-Analys
 ## Credits
 Throughout the development of this project, I drew inspiration from a key video resource: [https://youtu.be/VFIuIjswMKM](https://youtu.be/VFIuIjswMKM).
 
+## License
+You can use this dataset to build your own project and practice your SQL skills.
+
 ## Introduction
 I conducted a case study on a digital music store using SQL queries, delving into the database creation process and extracting insights from the data. Music reflects our diverse tastes and evolving trends, blending creativity, technology, and audience preferences. Inspired by the insights from Music Database, which showcases global music engagement, I aimed to explore patterns, genres, and artists that shape our collective musical experience.
 
@@ -30,6 +33,7 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 - Connect Power BI Desktop
 - Visualization
 
+### Schema Diagram
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
 
 
