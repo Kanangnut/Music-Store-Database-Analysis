@@ -17,7 +17,7 @@ The project also analyzes datasets, including Employee, Customer, Artist, Playli
 Overall Goal: Find Insights and find answer of the questions
 
 ### Objectives
-In this project, I aim to explore the complexities of the music industry by analyzing various facets including sales, customer behavior, genre and artist popularity, global trends, playlists, and employee dynamics to answered:
+In this project, I aim to explore the complexities of the music industry by analyzing various facets including sales, customer behavior, genre and artist popularity, global trends, playlists, and employee dynamics to answered question:
 
 1. Employee Analysis
 2. Sales and Revenue Analysis
