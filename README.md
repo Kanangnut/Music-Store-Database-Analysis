@@ -14,7 +14,7 @@ I conducted a case study on a digital music store using SQL queries, delving int
 
 The project also analyzes datasets, including Employee, Customer, Artist, Playlist, Playlist Track, Album, Track, Invoice, Media, and Genre. The study covers questions from basic to advanced, offering valuable insights into SQL and data analysis.
 
-Overall Goal: Find Insights and find answer of the questions
+<u>Overall Goal:</u> Find Insights and find answer of the questions
 
 ### Objectives
 In this project, I aim to explore the complexities of the music industry by analyzing various facets including sales, customer behavior, genre and artist popularity, global trends, playlists, and employee dynamics.
@@ -39,9 +39,9 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
 
 ## Steps of the Project
-<b>1. Database Setup</b>: Understand the structure of the music store database and generate SQL queries to create the necessary tables.<br>
-<b>2. Data Analysis</b>: Use SQL queries to analyze the data deeply, identifying patterns, trends, and relationships in the music industry.<br>
-<b>3. Drawing Insights</b>: Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
+<u>1. Database Setup</u>: Understand the structure of the music store database and generate SQL queries to create the necessary tables.<br>
+<u>2. Data Analysis</u>: Use SQL queries to analyze the data deeply, identifying patterns, trends, and relationships in the music industry.<br>
+<u>3. Drawing Insights</u>: Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
 
 
 
