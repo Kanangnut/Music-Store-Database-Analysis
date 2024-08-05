@@ -47,7 +47,9 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 The dataset used in this project is Chinook.db from Chinook Database (Chinook is a sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2).
 
 ### Database Setup
-For this project, I used PostgreSQL for SQL queries. I initially exported the database file .db from SQLite to a SQL file and imported it into PostgreSQL. I then created a schema diagram with the drawSQL web app, which detailed table names, columns, data types, and their relationships. This schema was exported as both SQL queries for table creation and a JPEG image for reference. After setting up the database in PostgreSQL, I imported the necessary CSV files for further analysis.
+For this project, I used PostgreSQL for SQL queries. First, I exported the database from SQLite to SQL and CSV files, which were then used in PostgreSQL and Power BI for further analysis.
+
+### Data Analysis
 
 
 
