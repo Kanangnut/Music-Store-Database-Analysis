@@ -64,13 +64,13 @@ Employee Analysis:
 - Who is the senior most employee based on job title?
 - Total spending by each Sales Support Agent
 
-Sales and Revenue Analysis:
+Customer Behavior Analysis:
+- Which countries have more than 10% of the total customers?
+- Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money
 - Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
 - Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
 - Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a query that returns one city that has the highest sum of invoice totals. Return both the city name & sum of all invoice totals
-- Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money
 - How many customers are there in each country?
-- Which countries have more than 10% of the total customers?
 - What is the average spending per customer?
 - How does the average spending per customer vary between different countries?
 
@@ -116,7 +116,7 @@ Employee Analysis:
 | Margaret Park | 1584.00 |
 | Steve Johnson | 1393.92 |
 
-Sales and Revenue Analysis:
+Customer Behavior Analysis:
 - The countries are more than 10% of the total customers are
 
 | country | customer_count |
@@ -124,5 +124,17 @@ Sales and Revenue Analysis:
 | USA | 13 |
 | Canada | 8 |
 
-- R Madhav's customer who has spent the most money
+- R Madhav's customer who has spent the most money will be declared the best customer
+
+Sales and Revenue Analysis:
+- USA is the highest total sales
+- The most popular genre of music in USA is "Rock"
+
+## Insights
+
+## Conclusion
+
+
+
+
 
