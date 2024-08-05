@@ -17,7 +17,11 @@ The project also analyzes datasets, including Employee, Customer, Artist, Playli
 Overall Goal: Find Insights and find answer of the questions
 
 ### Objectives
-In this project, I aim to explore the complexities of the music industry by analyzing various facets including sales, customer behavior, genre and artist popularity, global trends, playlists, and employee dynamics.
+In this project, I aim to explore the complexities of the music industry by analyzing various facets including sales, customer behavior, genre and artist popularity, global trends, playlists, and employee dynamics to answered:
+
+1. Employee Analysis
+2. Sales and Revenue Analysis
+3. Customer Behavior Analysis
 
 ### Tools 
 - PostgreSQL, pgAdmin4
@@ -50,6 +54,7 @@ The dataset used in this project is Chinook.db from Chinook Database (Chinook is
 For this project, I used PostgreSQL for SQL queries. First, I exported the database to SQL and CSV files by SQLite, which were then used in PostgreSQL and Power BI for further analysis.
 
 ### Data Analysis
+I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
 
 
 
