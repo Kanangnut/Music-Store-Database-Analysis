@@ -22,6 +22,7 @@ In this project, I aim to explore the complexities of the music industry by anal
 1. Employee Analysis
 2. Sales and Revenue Analysis
 3. Customer Behavior Analysis
+4. Other
 
 ### Tools 
 - PostgreSQL, pgAdmin4
@@ -55,6 +56,8 @@ For this project, I used PostgreSQL for SQL queries. First, I exported the datab
 
 ### Data Analysis
 I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
+
+### Questions Answered
 
 
 
