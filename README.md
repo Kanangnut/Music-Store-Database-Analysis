@@ -25,14 +25,13 @@ In this project, I aim to explore the complexities of the music industry by anal
 4. Genre and Artist Popularity
 5. Playlists Analysis
 
-### Tools 
+### Tools & Installation
 - PostgreSQL, pgAdmin4
 - SQLite, DB Browser for SQLite
 - Power BI
 
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/tools.png?raw=true)
 
-### Installation
 To work on this project, you need to install a SQL supported RDBMS. For this project, PostgreSQL is used follow this step:
 - Export Database to SQL and CSV file
 - Create and Restore Database
@@ -49,16 +48,14 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 2. Data Analysis: Use SQL queries to analyze the data deeply, identifying patterns, trends, and relationships in the music industry.<br>
 3. Visualization: Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
 
-### Dataset
+### Dataset & Database Setup
 The dataset used in this project is Chinook.db from Chinook Database (Chinook is a sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2).
-
-### Database Setup
-For this project, I used PostgreSQL for SQL queries. First, I exported the database to SQL and CSV files by SQLite, which were then used in PostgreSQL and Power BI for further analysis.
+Database setup for this project, I used PostgreSQL for SQL queries. First, I exported the database to SQL and CSV files by SQLite, which were then used in PostgreSQL and Power BI for further analysis.
 
 ### Data Analysis
 I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
 
-### Questions - Answered
+### Questions - Answered & Result
 
 Employee Analysis:
 - Who is the senior most employee based on job title?
@@ -103,7 +100,7 @@ Genre and Artist Popularity:
 - Which genre has the most number of tracks?
 - Who are the top3 artists in the “Rock” genre based on total sales?
 
-### Result
+#### Result
 Here are some of the questions answered in this project. For more details, please refer to the analysis.sql file:
 
 Employee Analysis:
