@@ -57,6 +57,7 @@ Database setup for this project, I used PostgreSQL for SQL queries. First, I exp
 I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
 
 ### Questions - Answered & Result
+Here are some of the questions answered in this project. For more details, please refer to the [SQL](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/music_database_query.sql) file: 
 
 Employee Analysis:
 - Who is the senior most employee based on job title?
@@ -102,7 +103,6 @@ Genre and Artist Popularity:
 - Who are the top3 artists in the “Rock” genre based on total sales?
 
 #### Result
-Here are some of the questions answered in this project. For more details, please refer to the [SQL](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/music_database_query.sql) file: 
 
 Employee Analysis:
 - Mr.Mohan Madan's most senioremployee
