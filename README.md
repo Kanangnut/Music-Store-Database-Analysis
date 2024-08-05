@@ -41,7 +41,7 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 ## Steps of the Project
 1. Database Setup: Understand the structure of the music store database and generate SQL queries to create the necessary tables.<br>
 2. Data Analysis: Use SQL queries to analyze the data deeply, identifying patterns, trends, and relationships in the music industry.<br>
-3. Drawing Insights: Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
+3. Visualization: Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
 
 
 
