@@ -4,8 +4,7 @@
 Read full article [here](https://kanangnut.github.io/Music-Store-Database-Analysis/).
 
 ### Credits
-Throughout the development of this project, I drew inspiration from a key video resource: [https://youtu.be/VFIuIjswMKM](https://youtu.be/VFIuIjswMKM).
-You can use this dataset to build your own project and practice your SQL skills.
+Throughout the development of this project, I drew inspiration from a key video resource: [https://youtu.be/VFIuIjswMKM](https://youtu.be/VFIuIjswMKM). And you can use the dataset to build your own project and practice your SQL skills.
 
 ### Introduction
 I conducted a case study on a digital music store using SQL queries, delving into the database creation process and extracting insights from the data. Music reflects our diverse tastes and evolving trends, blending creativity, technology, and audience preferences. Inspired by the insights from [Chinook Music Database](https://www.kaggle.com/datasets/samaxtech/chinook-music-store-data), which showcases global music engagement, I aimed to explore patterns, genres, and artists that shape our collective musical experience.
