@@ -108,6 +108,9 @@ Genre and Artist Popularity:
 Employee Analysis:
 - Mr.Mohan Madan's most senioremployee
 - Total spending by each Sales Support Agent <br>
+| dddd | fff |
+| ---- | --- |
+
 | employee_name | total_spending |
 | ------------- | ------------- |
 | Jane Peacock | 1731.51 |
