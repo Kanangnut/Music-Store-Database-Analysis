@@ -102,7 +102,7 @@ Genre and Artist Popularity:
 - Who are the top3 artists in the “Rock” genre based on total sales?
 
 #### Result
-Here are some of the questions answered in this project. For more details, please refer to the analysis.sql file:
+Here are some of the questions answered in this project. For more details, please refer to the [SQL](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/music_database_query.sql) file: 
 
 Employee Analysis:
 - Mr.Mohan Madan's most senioremployee
