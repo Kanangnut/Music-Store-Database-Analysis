@@ -42,7 +42,7 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 
 #### Schema Diagram
 
-![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
+![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/image/MusicDatabaseSchema.png?raw=true)
 
 ## Steps of the Project
 1. Database Setup: Understand the structure of the music store database and generate SQL queries to create the necessary tables.<br>
