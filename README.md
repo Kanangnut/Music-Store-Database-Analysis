@@ -131,9 +131,14 @@ Sales and Revenue Analysis:
 - The most popular genre of music in USA is "Rock"
 
 ## Insights
+Here are the key insights derived from the results:
+- USA is the most popular country for music purchases with 1040 purchases followed by Canada and Brazil with 535 and 427 purchases respectively
+- Queen is the top-selling artist, with a total of 190 sales
+- Rock music is the top selling genre
+- The month of January, 2018 had the highest sales
 
 ## Conclusion
-
+The project effectively addressed key questions regarding the store's business performance, offering actionable insights into marketing strategies and product offerings. By leveraging advanced data analysis techniques, the project provides valuable recommendations that can drive strategic decisions and enhance business outcomes. The findings not only highlight areas of opportunity but also equip the store with data-driven tools to optimize its operations. This work demonstrates a strong capability in translating complex data into meaningful insights, making it a significant asset for any organization aiming to leverage data for strategic growth.
 
 
 
