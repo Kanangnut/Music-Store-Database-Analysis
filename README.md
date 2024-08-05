@@ -39,11 +39,11 @@ To work on this project, you need to install a SQL supported RDBMS. For this pro
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/image/MusicDatabaseSchema.png?raw=true)
 
 ## Steps of the Project
-- <b>Database Setup</b>:
+<b>Database Setup</b>:<br>
   Understand the structure of the music store database and generate SQL queries to create the necessary tables.<br>
-- <b>Data Analysis</b>:
+<b>Data Analysis</b>:<br>
   Use SQL queries to analyze the data deeply, identifying patterns, trends, and relationships in the music industry.<br>
-- <b>Drawing Insights</b>:
+<b>Drawing Insights</b>:<br>
   Derive meaningful insights from the analysis to meet the project's goals and objectives.<br>
 
 
