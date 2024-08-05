@@ -5,8 +5,6 @@ Read full article [here](https://kanangnut.github.io/Music-Store-Database-Analys
 
 ### Credits
 Throughout the development of this project, I drew inspiration from a key video resource: [https://youtu.be/VFIuIjswMKM](https://youtu.be/VFIuIjswMKM).
-
-### License
 You can use this dataset to build your own project and practice your SQL skills.
 
 ### Introduction
