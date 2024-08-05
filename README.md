@@ -59,7 +59,6 @@ For this project, I used PostgreSQL for SQL queries. First, I exported the datab
 I started the analysis by using SQL to query and extract insights directly, avoiding the need for extensive data preprocessing.
 
 ### Questions - Answered
-Here are some of the questions answered in this project. For more details, please refer to the analysis.sql file:
 
 Employee Analysis:
 - Who is the senior most employee based on job title?
@@ -105,6 +104,8 @@ Genre and Artist Popularity:
 - Who are the top3 artists in the “Rock” genre based on total sales?
 
 ### Result
+Here are some of the questions answered in this project. For more details, please refer to the analysis.sql file:
+
 Employee Analysis:
 - Mr.Mohan Madan's most senioremployee
 - Total spending by each Sales Support Agent <br>
@@ -115,5 +116,13 @@ Employee Analysis:
 | Margaret Park | 1584.00 |
 | Steve Johnson | 1393.92 |
 
+Sales and Revenue Analysis:
+- The countries are more than 10% of the total customers are
 
+| country | customer_count |
+| ------------- | ------------- |
+| USA | 13 |
+| Canada | 8 |
+
+- R Madhav's customer who has spent the most money
 
