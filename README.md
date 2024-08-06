@@ -133,9 +133,9 @@ Here are the key insights derived from the results:
 - The month of January, 2018 had the highest sales
 
 ## Dashboard and DAX
-[DAX](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/doc/DAX.txt) file:
+Here is [DAX](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/doc/DAX.txt) file for this project:
 
-![alt text]()
+![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/image/DashboardGIF.gif?raw=true)
 
 ## Conclusion
 The project effectively addressed key questions regarding the store's business performance, offering actionable insights into marketing strategies and product offerings. By leveraging advanced data analysis techniques, the project provides valuable recommendations that can drive strategic decisions and enhance business outcomes. The findings not only highlight areas of opportunity but also equip the store with data-driven tools to optimize its operations. This work demonstrates a strong capability in translating complex data into meaningful insights, making it a significant asset for any organization aiming to leverage data for strategic growth.
