@@ -1,0 +1,115 @@
+Artist Ranking = 
+RANKX(
+    ALL(artist[artist_id]),
+    [Total Spend by Artist],
+    ,
+    DESC,
+    Skip
+)
+
+
+Top 10 Artists Spend = 
+IF(
+    [Artist Ranking] <= 10,
+    [Total Spend by Artist],
+    BLANK()
+)
+
+
+Total Spend by Artist = 
+CALCULATE(
+    [Total Spend(invoice_line)],
+    ALLEXCEPT(artist, artist[artist_id])
+)
+
+
+Customer Rank = 
+RANKX(
+    ALL(customer[customer_id]),
+    [Total Spend(invoice)],
+    ,
+    DESC,
+    Skip
+)
+
+
+Gross Sales ($) = 
+IF(
+    [Customer Rank] <= 10,
+    [Total Spend(invoice)],
+    BLANK()
+)
+
+
+Genre Ranking = 
+RANKX(
+    ALL(genre[genre_id]),
+    [Total Spend by Genre],
+    ,
+    DESC,
+    Skip
+)
+
+
+Top 5 Genres Spend = 
+IF(
+    [Genre Ranking] <= 5,
+    [Total Spend by Genre],
+    BLANK()
+)
+
+
+Total Spend by Genre = 
+CALCULATE(
+    [Total Spend(invoice_line)],
+    ALLEXCEPT(genre, genre[genre_id])
+)
+
+Total Sale = SUM(invoice[total])
+
+Total Spend(invoice) = 
+SUMX(
+    invoice,
+    invoice[total]
+)
+
+
+Total Spend(invoice_line) = 
+SUMX(
+    invoice_line,
+    invoice_line[unit_price] * invoice_line[quantity]
+)
+
+
+Total Spend(invoice_line) = 
+SUMX(
+    invoice_line,
+    invoice_line[unit_price] * invoice_line[quantity]
+)
+
+
+Top 10 Tracks Spend = 
+IF(
+    [Track Ranking] <= 10,
+    [Total Spend by Track],
+    BLANK()
+)
+
+
+Total Spend by Track = 
+CALCULATE(
+    [Total Spend(invoice_line)],
+    ALLEXCEPT(track, track[track_id])
+)
+
+
+Track Ranking = 
+RANKX(
+    ALL(track[track_id]),
+    [Total Spend by Track],
+    ,
+    DESC,
+    Skip
+)
+
+
