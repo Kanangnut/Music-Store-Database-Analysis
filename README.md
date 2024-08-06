@@ -132,7 +132,7 @@ Here are the key insights derived from the results:
 - Rock music is the top selling genre
 - The month of January, 2018 had the highest sales
 
-## Dashboard and DAX
+## Dashboard and DAX queries in Power BI Desktop
 Here is [DAX](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/doc/DAX.txt) file for this project:
 
 ![alt text](https://github.com/Kanangnut/Music-Store-Database-Analysis/blob/main/assets/image/DashboardGIF.gif?raw=true)
