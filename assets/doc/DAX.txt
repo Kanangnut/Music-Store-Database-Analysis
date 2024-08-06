@@ -7,7 +7,6 @@ RANKX(
     Skip
 )
 
-
 Top 10 Artists Spend = 
 IF(
     [Artist Ranking] <= 10,
@@ -81,12 +80,11 @@ SUMX(
 )
 
 
-Total Spend(invoice_line) = 
-SUMX(
-    invoice_line,
-    invoice_line[unit_price] * invoice_line[quantity]
+Total Spend by Artist = 
+CALCULATE(
+    [Total Spend(invoice_line)],
+    ALLEXCEPT(artist, artist[artist_id])
 )
-
 
 Top 10 Tracks Spend = 
 IF(
